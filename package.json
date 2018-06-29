@@ -1,10 +1,10 @@
 {
-  "name": "itinerary",
+  "name": "itinerary-studio",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Thomas Drevon <thomas@bengler.no>",
+  "author": "Thomas Drevon <thomas@drevon.no>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -14,14 +14,14 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "^0.132.4",
-    "@sanity/components": "^0.132.4",
-    "@sanity/core": "^0.132.4",
-    "@sanity/default-layout": "^0.132.4",
-    "@sanity/default-login": "^0.132.4",
-    "@sanity/desk-tool": "^0.132.4",
-    "@sanity/google-maps-input": "^0.132.4",
-    "@sanity/vision": "^0.132.4",
+    "@sanity/base": "^0.132.5",
+    "@sanity/components": "^0.132.5",
+    "@sanity/core": "^0.132.5",
+    "@sanity/default-layout": "^0.132.5",
+    "@sanity/default-login": "^0.132.5",
+    "@sanity/desk-tool": "^0.132.5",
+    "@sanity/google-maps-input": "^0.132.5",
+    "@sanity/vision": "^0.132.5",
     "react": "^16.2",
     "react-dom": "^16.2"
   },
